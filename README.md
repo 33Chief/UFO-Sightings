@@ -16,7 +16,7 @@ There is just one tiny problem though... our collection is too large to search t
 
 2. Clone the new repository to my computer.
 
-3. Inside my local git repository, create a directory for the Javascript challenge. Use the folder names to correspond to the challenges: **UFO-level-1
+3. Inside my local git repository, create a directory for the Javascript project.
 
 4. Add my **html** files to this folder as well as your static folder containing your javascript. This will be the main script to run my analysis.
 
